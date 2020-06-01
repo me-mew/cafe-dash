@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
+body {
+  background-color: dimgray;
+}
+
+#imglist li{
+display: inline;
+list-style: none;
+margin: 23px;
+}
+
+#tablelist li{
+display: inline;
+list-style: none;
+margin: 10px;
+}
+
+h1 {
+	color: white;
+	text-align: left;
+	font-family: 'Pacifico',cursive;
+	font-size: 60px;
+	font-weight: bold;
+	background-color: transparent;
+}
+
+h2 {
+	color: black;
+	font-family: 'Arial';
+	font-size: 30px;
+	background-color: transparent;
+}
+
+h3 {
+	color: white;
+	text-align: left;
+	font-family: 'Arial';
+	font-size: 30px;
+	background-color: transparent;
+	text-align: left ;
+}
+
+h4 {
+	color: black;
+	font-family: 'Arial';
+	font-size: 20px;
+	background-color: transparent;
+	font-weight: lighter;
+	font-color: #47494a;
+}
+
+h5 {
+	color: black;
+	font-family: 'Arial' ;
+	font-size: 50px;
+	background-color: transparent;
+	font-weight: medium;
+}
+
